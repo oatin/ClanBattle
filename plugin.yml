@@ -1,0 +1,23 @@
+name: ClanBattle
+main: BEcraft\Yir
+version: 0.1
+api: [2.0.0, 2.1.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3, 3.0.0-ALPHA4]
+author: BEcraft GamePlay
+
+commands:
+ cb:
+  description: ClanBattle Commands
+  default: op
+ stopbattle:
+  description: Para los juegos que estan en proceso
+  default: op
+ scrim:
+  description: Comienza una partida de entrenamiento
+  default: op
+permissions:
+ local.permiso:
+  description: Equipo local
+  default: false
+ visitante.permiso:
+  description: Equipo visitante
+  deafult: true
