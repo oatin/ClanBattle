@@ -10,3 +10,6 @@
 • /setuperm <jugador> local.permiso
 - Despues de poner este comando sales y entras de nuevo al juego y esteras en el equipo 'Local'.
 * (Si un jugador no tiene el permiso 'local.permiso' estara en el quipo 'Visitante')
+
+# Nota: Este plugin no esta terminado...
+# Note: This plugin is not finished....
